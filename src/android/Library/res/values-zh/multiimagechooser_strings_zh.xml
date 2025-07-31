@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="multi_app_name">圖片選擇器</string>
+    <string name="free_version_label">還可以選擇 %d 張圖片</string>
+    <string name="error_database">打開圖片數據庫時出錯，請反饋問題。</string>
+    <string name="requesting_thumbnails">請求縮略圖，請耐心等待</string>
+    <string name="multi_image_picker_processing_images_title">正在處理...</string>
+    <string name="multi_image_picker_processing_images_message">請稍等..</string>
+    <string name="discard" translatable="false">取消</string>
+    <string name="done" translatable="false">確定</string>
+    <string name="max_count_photos_title">最多%d張</string>
+    <string name="max_count_photos_message">一次只能選擇%d張圖片。</string>
+ </resources>
